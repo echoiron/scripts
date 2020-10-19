@@ -53,3 +53,4 @@
   "||zealdocs.org",
   "||zerotier.com",
   "||423down.com",
+  "||fliqlo.com",
