@@ -54,3 +54,4 @@
   "||zerotier.com",
   "||423down.com",
   "||fliqlo.com",
+  "||ankiweb.net",
