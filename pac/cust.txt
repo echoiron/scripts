@@ -56,3 +56,4 @@
   "||fliqlo.com",
   "||ankiweb.net",
   "||iobit.com",
+  "||gohugo.io",
