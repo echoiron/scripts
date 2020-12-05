@@ -56,3 +56,4 @@
   "||zealdocs.org",
   "||zerotier.com",
   "||423down.com",
+  "||remi.com",
