@@ -57,3 +57,4 @@
   "||zerotier.com",
   "||423down.com",
   "||remi.com",
+  "||remirepo.net",
