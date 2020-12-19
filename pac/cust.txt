@@ -42,6 +42,7 @@
   "||oxfordlearnersdictionaries.com",
   "||packagecontrol.io",
   "||pixiv.net",
+  "||postman.co",
   "||remi.com",
   "||remirepo.net",
   "||sg.godaddy.com",
