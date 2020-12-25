@@ -13,6 +13,7 @@
   "||ezgif.com",
   "||fliqlo.com",
   "||forvo.com",
+  "||getpostman.com",
   "||github.blog",
   "||github.com",
   "||github.io",
@@ -59,3 +60,4 @@
   "||zealdocs.org",
   "||zerotier.com",
   "||423down.com",
+  
