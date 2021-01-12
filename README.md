@@ -1,2 +1,2 @@
-# srp
+# scripts
 echoiron scripts
